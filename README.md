@@ -1,1 +1,2 @@
-# Data-Science-assignment
+This assignment explores the relationship between trader performance and market sentiment. By merging historical trading data with sentiment-labeled information, the analysis uncovers how different sentiment trends (positive, negative, neutral) influence trading outcomes measured through closedPnL.
+The findings highlight that market sentiment significantly impacts profit trends, offering valuable insights for developing smarter, sentiment-driven trading strategies.
